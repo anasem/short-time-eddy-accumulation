@@ -5,11 +5,13 @@ Emad and Siebicke (2022)
 
 **True eddy accumulation – Part 2: Theory and experiment of the short-time eddy accumulation method**
 
-Accepted for final publication in Atmospheric Measurement Techniques
+Accepted for final publication in Atmospheric Measurement Techniques  
+[![DOI:10.5194/amt-2022-164](https://img.shields.io/badge/doi-10.5194%2Famt--2022--164-blue)](https://doi.org/10.5194/amt-2022-164)
 
- [![DOI:10.5194/amt-2022-164](https://img.shields.io/badge/doi-10.5194%2Famt--2022--164-blue)](https://doi.org/10.5194/amt-2022-164)
- 
- 
+The publication version is archived on zenodo  
+[![DOI](https://zenodo.org/badge/578288089.svg)](https://zenodo.org/badge/latestdoi/578288089)
+
+
 Abstract
 
 > A new variant of the eddy accumulation method for measuring atmospheric
