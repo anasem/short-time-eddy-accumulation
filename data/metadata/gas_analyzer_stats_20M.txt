@@ -1,0 +1,17 @@
+Metadata for file: gas_analyzer_stats_20M
+
+Summary statistics calculated from the raw gas_analyzer_20M. For each short
+interval event identified by event_id, the median of raw measurements is
+calculated.
+
+aiid       : averaging interval unique identifier
+time       : UTC timestamp YYYY-mm-ddTh:MM:0SZ
+event_id   : sampling event unique identifier
+CH4_dry    : median of measured CH4 concentrations in the sampling event as a dry mole fraction [ppm]
+CH4_wet    : median of measured CH4 concentrations in the sampling event as a wet mole fraction [ppm]
+CO2_dry    : median of measured CO2 concentrations in the sampling event as a dry mole fraction [ppm]
+CO2_wet    : median of measured CO2 concentrations in the sampling event as a wet mole fraction [ppm]
+H2O_dry    : median of measured H2O concentrations in the sampling event as a dry mole fraction [ppm]
+H2O_wet    : median of measured H2O concentrations in the sampling event as a wet mole fraction [ppm]
+is_updraft : is the active buffer volume updraft [boolean]
+duration   : duration of the sampling event in seconds

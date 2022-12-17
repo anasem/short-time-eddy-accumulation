@@ -1,0 +1,10 @@
+Metadata for file: BV_simulation_fluxes
+
+aiid        : averaging interval unique identifier
+w_mean      : mean vertical wind velocity [m s-1]
+tau_BV      : time constant for the buffer volume [s]
+H           : sensible heat flux without the use of buffer volumes [W m-2].
+H_STEA      : sensible heat flux with simulated use of buffer volumes and STEA method [W m-2]
+C_flux      : CO2 flux without the use of buffer volumes [umol m-2 s-1]
+C_flux_STEA : CO2 flux with simulated use of buffer volumes and STEA method [umol m-2 s-1]
+r_Ts_w      : correlation coefficient between sonic temperature and vertical wind velocity

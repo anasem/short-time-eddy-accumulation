@@ -1,0 +1,11 @@
+Metadata for file: water_calibration_data
+
+Measurements from gas analyzer LGR-FGGA-24r-EP
+
+time              : UTC timestamp YYYY-mm-ddTh:MM:0SZ
+temp              : reported ambient temperature by the gas analzyer [C]
+H2O_ppm           : water wet mole fraction measured by the gas analyzer [ppm]
+CO2_ppm           : wet mole fraction measured by the gas analyzer [ppm]
+CO2_dry_ppm_slope : dry mole fraction of CO2 corrected using the slope of the linear fit [ppm]
+CO2_dry_poly      : dry mole fraction of CO2 calcualted using the polynomial equation [ppm]
+

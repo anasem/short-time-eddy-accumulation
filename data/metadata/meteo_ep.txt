@@ -1,0 +1,12 @@
+Metadata for file: meteo_ep
+
+Meteorological and energy turbulent fluxes calculated using EddyPro
+
+
+time            : UTC timestamp YYYY-mm-ddTh:MM:0SZ
+RH              : Relative humidity [%]
+wind_speed      : Wind speed [m/sec]
+wind_dir        : wind direction [degree]
+H               : Sensible heat flux [W/m^2]
+LE              : Latent heat flux [W/m^2]
+air_temperature : Air temperature [k]

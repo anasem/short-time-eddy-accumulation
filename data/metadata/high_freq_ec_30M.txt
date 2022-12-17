@@ -1,0 +1,10 @@
+Metadata for file: high_freq_ec_30M
+
+High frequency measurements from an IRGA and a sonic anemometer, used for showing how STEA works.
+C      : scalar concentration [umol mol^-1]
+w      : vertical wind velocity [m sec-1]
+time   : UTC timestamp YYYY-mm-ddTh:MM:0SZ
+Z      : sampling direction (updraft or downdraft)
+J      : Group number
+J_up   : grouping factor of equal accumulated mass for updraft
+J_down : grouping factor of equal accumulated mass for downdraft

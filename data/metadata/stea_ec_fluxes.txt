@@ -1,0 +1,23 @@
+Metadata for file: stea_ec_fluxes
+
+time            : UTC timestamp YYYY-mm-ddTh:MM:0SZ
+quality_flag    : flux quality flag
+co2_flux_ec     : CO2 flux calculated using the eddy covariance method [umol m-2 s-1]
+co2_flux_tea    : CO2 flux calculated using the STEA method [umol m-2 s-1]
+H_ec            : Sensible heat flux calcualted using EC method [W m-2]
+LE_ec           : latent heat flux calcualted using EC method [W m-2]
+air_temperature : mean air temperature [K]
+RH              : mean air relative humidity [%]
+VPD             : water vapor pressure deficit [Pa]
+wind_speed      : mean hoizontal wind speed [m s-1]
+ustar           : friction velocity [m s-1]
+wind_dir        : wind direction [degrees]
+zL              : z/L stability parameter of Monin-Obukhov
+w_var           : variance of vertical wind velocity [m+2 s-2]
+ts_var          : variance of sonic temperature [K+2]
+alpha_Ts        : alpha calcualted from sonic temperature and vertical wind
+Vm_mean         : mean air molar volume [m^3 mol-1]
+wTs_cov         : covariance between vertical wind velocity and sonic temperature
+wTs_STEA        : STEA flux calcualted from w and Ts, simulated using BV filter
+w_mean_tea      : mean vertical wind velocity in TEA [m s-1]
+w_mean_abs      : mean absolute vertical wind velocity [m s-1]

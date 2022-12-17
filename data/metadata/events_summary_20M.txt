@@ -1,0 +1,8 @@
+Metadata for file: events_summary_20M
+
+Summary of short interval sampling events
+event_id   : sampling event unique identifier
+start_time : UTC timestamp YYYY-mm-ddTh:MM:0SZ
+end_time   : UTC timestamp YYYY-mm-ddTh:MM:0SZ
+aiid       : averaging interval unique identifier
+is_updraft : is the active buffer volume updraft [boolean]

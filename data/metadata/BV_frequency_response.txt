@@ -1,0 +1,9 @@
+Metadata for file: BV_frequency_response
+
+Simulated buffer volume response modeled as a first order linear filter.
+q         : dimensionless flow rate
+freq      : frequency [Hz]
+magnitude : magnitude of the filter
+phase     : phase shift of the filter [degrees]
+fc        : cutoff frequency [Hz]
+tau       : filter's time constant [seconds]

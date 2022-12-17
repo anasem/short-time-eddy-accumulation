@@ -1,0 +1,6 @@
+Metadata for file: meteo_dwd
+Precipitation measured from the German weather service (DWD) station Braunschweig 
+
+
+time          : UTC timestamp YYYY-mm-ddTh:MM:0SZ
+rain_daily_cs : Cummulative sum of daily precipitation [mm]

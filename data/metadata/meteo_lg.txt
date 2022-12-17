@@ -1,0 +1,8 @@
+Metadata for file: meteo_lg
+
+Soil water content measured on site
+
+time            : UTC timestamp YYYY-mm-ddTh:MM:0SZ
+SWC_1_1_1       : Soil water content sensor 1 [cm^3 / cm^3]
+SWC_2_1_1       : Soil water content sensor 2 [cm^3 / cm^3]
+SWC_3_1_1       : Soil water content sensor 3 [cm^3 / cm^3]

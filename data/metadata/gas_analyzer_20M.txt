@@ -1,0 +1,19 @@
+Metadata for file: gas_analyzer_20M
+
+20 minutes raw measurements from the gas analyzer LGR-FGGA-24r-EP
+time               : UTC timestamp YYYY-mm-ddTh:MM:0SZ
+CO2_wet            : wet mole fraction of CO2 [ppm]
+CH4_wet            : wet mole fraction of CH4 [ppm]
+H2O_wet            : wet mole fraction of H2O [ppm]
+GasT_C             : gas analyzer cell temperature [C]
+AmbT_C             : ambient air temperature as measured by the analyzer [C]
+H2O_dry            : dry mole fraction for H2O [ppm]
+CO2_dry            : dry mole fraction for CO2 [ppm]
+CH4_dry            : dry mole fraction for CH4 [ppm]
+event_id           : sampling event unique identifier
+is_updraft         : is the active buffer volume updraft [boolean]
+duration           : duration of the sampling event in seconds
+f_is_deadband      : boolean flag, True when the measurement point is flagged as deadband.
+f_is_low_flow_up   : boolean flag, True when the flow rate coming from updraft reservoir to the gas analyzer is below threshold.
+f_is_low_flow_down : boolean flag, True when the flow rate coming from downdraft reservoir to the gas analyzer is below threshold.
+aiid               : averaging interval unique identifier
